@@ -1,0 +1,5 @@
+object WaveletViewer: TWaveletViewer
+  Size.Width = 512.000000000000000000
+  Size.Height = 200.000000000000000000
+  Size.PlatformDefault = False
+end
